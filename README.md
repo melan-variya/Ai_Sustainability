@@ -76,7 +76,7 @@ Run notebook: Open Ai_Sustainability.ipynb in Jupyter/VS Code and execute cells
 
 ## Results
 
-Model is trained for 5 epochs with Adam optimizer (lr=0.001).
+Model is trained for 5 epochs with Adam optimizer (lr=0.001) with accuracy of around 85%.
 Trained model is saved and can be reused on subsequent runs.
 Evaluation metrics show model performance on test set.
 
